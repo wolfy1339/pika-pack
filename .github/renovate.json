@@ -3,5 +3,6 @@
   "extends": [
     "config:base",
     "github>octokit/.github"
-  ]
+  ],
+  "prHourlyLimit": 0
 }
