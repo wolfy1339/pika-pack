@@ -20,7 +20,7 @@
   "dependencies": {
     "@pika/cli": "latest",
     "@pika/types": "^0.9.0",
-    "camelcase": "^4.0.0",
+    "camelcase": "^7.0.0",
     "chalk": "^2.1.0",
     "commander": "^2.9.0",
     "file-uri-to-path": "^2.0.0",
