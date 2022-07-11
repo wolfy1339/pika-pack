@@ -52,7 +52,7 @@
     "mkdirp": "^1.0.4",
     "np": "^7.1.0",
     "rimraf": "^3.0.2",
-    "strip-ansi": "^6.0.0",
+    "strip-ansi": "^7.0.0",
     "strip-bom": "^5.0.0",
     "validate-npm-package-license": "^3.0.4",
     "yargs-parser": "^20.2.4"
