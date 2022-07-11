@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@pika/cli": "latest",
-    "@pika/types": "^0.6.0",
+    "@pika/types": "^0.9.0",
     "camelcase": "^4.0.0",
     "chalk": "^2.1.0",
     "commander": "^2.9.0",
