@@ -34,7 +34,7 @@
     "np": "^5.0.2",
     "rimraf": "^2.5.0",
     "strip-ansi": "^4.0.0",
-    "strip-bom": "^3.0.0",
+    "strip-bom": "^5.0.0",
     "validate-npm-package-license": "^3.0.4",
     "yargs-parser": "^13.1.1"
   },
