@@ -30,7 +30,7 @@
     "is-builtin-module": "^3.0.0",
     "is-ci": "^1.0.10",
     "loud-rejection": "^2.0.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^2.0.0",
     "np": "^5.0.2",
     "rimraf": "^2.5.0",
     "strip-ansi": "^4.0.0",
