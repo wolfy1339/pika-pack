@@ -42,7 +42,7 @@
     "@pika/plugin-build-node": "^0.9.0",
     "@pika/plugin-simple-bin": "^0.9.0",
     "@pika/plugin-ts-standard-pkg": "^0.9.0",
-    "prettier": "^1.15.3",
+    "prettier": "^3.0.0",
     "typescript": "^3.2.2"
   },
   "engines": {
