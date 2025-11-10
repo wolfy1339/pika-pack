@@ -42,7 +42,7 @@
   "dependencies": {
     "commander": "^6.2.1",
     "file-uri-to-path": "^2.0.0",
-    "glob": "^7.1.6",
+    "glob": "^11.0.0",
     "import-from": "^4.0.0",
     "invariant": "^2.2.4",
     "is-builtin-module": "^3.0.0",
