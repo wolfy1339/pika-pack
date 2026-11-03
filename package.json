@@ -51,7 +51,7 @@
     "loud-rejection": "^2.2.0",
     "mkdirp": "^1.0.4",
     "np": "^7.1.0",
-    "rimraf": "^3.0.2",
+    "rimraf": "^6.0.0",
     "strip-ansi": "^6.0.0",
     "strip-bom": "^5.0.0",
     "validate-npm-package-license": "^3.0.4",
